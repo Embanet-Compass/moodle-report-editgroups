@@ -1,0 +1,9 @@
+
+{
+    "name": "embanet-compass/moodle-report-editgroups",
+    "type": "moodle-report",
+    "description": "Report Plugin",
+    "extra": {
+        "installer-name": "editgroups",
+        "moodle": { "package_folder_name" : "editgroups" }
+    }
