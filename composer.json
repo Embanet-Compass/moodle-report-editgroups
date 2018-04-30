@@ -1,4 +1,3 @@
-
 {
     "name": "embanet-compass/moodle-report-editgroups",
     "type": "moodle-report",
@@ -7,3 +6,4 @@
         "installer-name": "editgroups",
         "moodle": { "package_folder_name" : "editgroups" }
     }
+}
